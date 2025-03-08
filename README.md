@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on any project that challenges my brain.
 - 📫 How to reach me ... hmmm
 - 😄 Pronouns: She
-- ⚡ Fun fact: I love cooking 
+- ⚡ Fun fact: I love cooking
+
+Here, you’ll find some of the projects I worked on as an applied mathematics student. Check out my repositories! Some of them are on my college’s GitHub—I’ll share the links below: 
+          - Musical Transcription : https://github.com/RomB77/TraitementSignal
 
 <!---
 k-Refuge/k-Refuge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
