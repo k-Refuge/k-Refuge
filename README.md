@@ -1,6 +1,6 @@
 - 👋 Hi, I am Kenza
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning everything related to this field, including AI, but especially the mathematics behind it—I really love it!
+- 🌱 I’m currently learning everything related to this field, including GenAI.
 - 💞️ I’m looking to collaborate on any project that challenges my brain.
 - 📫 How to reach me : linkedIn : Kenza MOUHARRAR
 
